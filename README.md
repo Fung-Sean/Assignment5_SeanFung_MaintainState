@@ -1,0 +1,1 @@
+Only place I could not see a consistent change of state was when you go to the overview (square button) and you swipe up (delete the state that the app is in). This only happened in some cases and not all. 
